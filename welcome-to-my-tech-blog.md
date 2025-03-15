@@ -1,7 +1,7 @@
 ---
 title: Welcome to My Tech Blog
 excerpt: An introduction to my journey as a tech enthusiast and what you can expect from this blog.
-date: May 15, 2023
+date: March 16, 2025
 category: Introduction
 image: https://images.unsplash.com/photo-1517694712202-14dd9538aa97?q=80&w=1200
 ---
