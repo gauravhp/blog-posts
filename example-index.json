@@ -1,0 +1,16 @@
+[
+  {
+    "title": "Example Blog Post Title",
+    "excerpt": "This is an example excerpt that briefly summarizes what the blog post is about.",
+    "date": "January 1, 2023",
+    "category": "Example Category",
+    "slug": "example-blog-post"
+  },
+  {
+    "title": "Another Example Blog Post",
+    "excerpt": "A brief summary of another example blog post to show multiple entries.",
+    "date": "February 15, 2023",
+    "category": "Another Category",
+    "slug": "another-example-post"
+  }
+] 
